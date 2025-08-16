@@ -1,0 +1,1 @@
+C:\Net Maui\MauiAppMinhasCompras\MauiAppMinhasCompras\MauiAppMinhasCompras.csproj;x64
