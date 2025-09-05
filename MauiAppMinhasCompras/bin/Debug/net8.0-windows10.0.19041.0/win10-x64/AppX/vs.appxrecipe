@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Net Maui\MauiAppMinhasCompras\MauiAppMinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-16T18:36:04.465</Modified>
+      <Modified>2025-09-03T23:22:35.769</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Net Maui\MauiAppMinhasCompras\MauiAppMinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppMinhasCompras.dll">
       <PackagePath>MauiAppMinhasCompras.dll</PackagePath>
-      <Modified>2025-08-16T18:36:03.313</Modified>
+      <Modified>2025-09-03T23:22:34.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Net Maui\MauiAppMinhasCompras\MauiAppMinhasCompras\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppMinhasCompras.exe</PackagePath>
-      <Modified>2025-08-16T18:36:03.374</Modified>
+      <Modified>2025-09-03T23:22:34.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Net Maui\MauiAppMinhasCompras\MauiAppMinhasCompras\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

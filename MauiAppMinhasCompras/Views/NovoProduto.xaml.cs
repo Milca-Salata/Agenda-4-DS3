@@ -13,6 +13,7 @@ public partial class NovoProduto : ContentPage
     {
         try
         {
+            App app = new App();
             Produto p = new Produto
             {
                 Descricao = txt_descricao.Text,
@@ -20,7 +21,7 @@ public partial class NovoProduto : ContentPage
                 Preco = Convert.ToDouble(txt_preco.Text)
             };
 
-            await App.Db.Insert(p);
+            await app.Db.Insert(p);
             await DisplayAlert("Sucesso!", "Registro Inserido", "OK");
 
         }

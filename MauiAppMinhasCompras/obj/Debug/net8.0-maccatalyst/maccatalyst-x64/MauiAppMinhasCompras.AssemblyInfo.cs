@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppMinhasCompras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f079846f2d7029ccc5dc90c305ef1097561419d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+30fd1b0a8eb740af768ea7d487de39c852760c41")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppMinhasCompras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppMinhasCompras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
